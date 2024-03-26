@@ -25,3 +25,4 @@
   - 선택한 오늘 먹은 음식의 전체 칼로리를 합산한다. 
 
 ## ERD
+![ERD-dietdiary](https://github.com/endlr1234/dietdiary/assets/141152983/ef61664f-6e9c-40a9-a1c8-381764f0dcda)
